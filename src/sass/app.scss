@@ -1,0 +1,23 @@
+@import 'helpers/all';
+@import 'generated/all';
+@import 'base/all';
+
+//Libs
+// @import '../../node_modules/swiper/dist/css/swiper.min';
+// @import '_lib/slick';
+
+//Customization libs
+@import 'custom';
+
+//Import site components
+@import 'components/buttons';
+
+//Import main styles
+@import 'main';
+
+//Import site layouts
+@import 'layout/footer';
+@import 'layout/header';
+
+//Import pages
+@import 'pages/home';
